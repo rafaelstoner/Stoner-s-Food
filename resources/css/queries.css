@@ -51,6 +51,7 @@
 }
     .main-nav {
     font-size: 85%;
+        font-weight: 300;
 }
     .icon-small {
         width: 10px;
