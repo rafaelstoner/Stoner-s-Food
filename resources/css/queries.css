@@ -1,6 +1,6 @@
 
 
-/*from bit tablets to : 1023 to 1200 */
+/*from big tablets to : 1023 to 1200 */
 @media only screen and (max-width: 1200px) {
     .hero-text-box {
     
@@ -190,6 +190,9 @@
 
 /*Small phones - 0 to 480px */
 @media only screen and (max-width: 480px) {
+    body {
+        font-size: 14px;
+    }
     section {
         padding: 25px 0;
         
@@ -201,4 +204,11 @@
         width: 50%;
             font-size: 55%;
     }
+
+    .logo {
+    height: 70px;
+    width: auto;
+    float: left;
+    margin-top: 10px;
+}
 }
