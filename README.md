@@ -1,5 +1,5 @@
 # Stoner's Food
-Stoner's Food é uma empresa fictícia de entrega de comida a domicílio criada para própositos de estudo de desenvolvimento web
+Stoner's Food é uma empresa fictícia de entrega de comida a domicilio, criada apenas para própositos de estudo de desenvolvimento web
 
 ## Desenvolvimento do Website
 O site do Stoner's Food foi desenvolvido seguindo padrões de desenvolvimento web modernos
@@ -14,5 +14,5 @@ Javascript
 Rafael Stoner
 
 ## Permição de uso
-Todo e qualquer conteúdo desse repositório pode ser usado livramente para questões de estudo
+Todo e qualquer conteúdo desse repositório pode ser usado livremente para questões de estudo
 Sendo totalmente proibido o uso desse conteúdo para propósitos comerciais
