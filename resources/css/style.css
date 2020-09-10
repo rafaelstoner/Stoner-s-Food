@@ -1,5 +1,5 @@
 /* Orange color
-#e67e22
+#8e44ad
 */
 
 /*------------------------------------------------------------------------ */
@@ -89,7 +89,7 @@ h2:after {
     display: block;
     
     margin: 0 auto;
-    background-color: #e67e22;
+    background-color: #8e44ad;
     height: 2px;
     width: 100px;
     margin-top: 30px;
@@ -115,7 +115,7 @@ h2:after {
 .icon-big {
     text-align: center;
     font-size: 350%;
-    color: #e67e22;
+    color: #8e44ad;
     display: block;
     margin-bottom: 10px;
 
@@ -126,7 +126,7 @@ h2:after {
     display: inline-block;
     width: 30px;
     text-align: center;
-    color: #e67e22;
+    color: #8e44ad;
     vertical-align: middle;
     font-size: 120%;
     line-height: 120%;
@@ -138,10 +138,10 @@ h2:after {
 
 a:link,
 a:visited {
-    color: #e67e22;
+    color: #8e44ad;
     text-decoration: none;
     padding-bottom: 1px;
-    border-bottom: 1px solid #e67e22;
+    border-bottom: 1px solid #8e44ad;
     transition: border-bottom 0.2s, color 0.2s;
 }
 
@@ -171,16 +171,16 @@ input[type=submit] {
 .btn-full:link,
 .btn-full:visited,
 input[type=submit] {
-    background-color: #e67e22;
+    background-color: #8e44ad;
     color:#fff;
-    border: 1px solid  #e67e22;
+    border: 1px solid  #8e44ad;
     margin-right: 15px;
 }
 
 .btn-ghost:link,
 .btn-ghost:visited{
-    color: #e67e22;
-    border: 1px solid  #e67e22;  
+    color: #8e44ad;
+    border: 1px solid  #8e44ad;  
     
 }
 
@@ -188,7 +188,7 @@ input[type=submit] {
 .btn:active,
 input[type=submit]:hover,
 input[type=submit]:active{
-    background-color: #cf6d17;
+    background-color: #482258;
 }
 
 
@@ -196,12 +196,12 @@ input[type=submit]:active{
 .btn-full:active, 
 input[type=submit]
 {
-     border: 1px solid  #cf6d17;
+     border: 1px solid  #482258;
 }
 .btn-ghost:hover,
 .btn-ghost:active{
     color: #fff;
-    border: 1px solid  #cf6d17;   
+    border: 1px solid  #482258;   
 }
 
 
@@ -262,7 +262,7 @@ header {
 
 .main-nav li a:hover,
 .main-nav li a:active {
-    border-bottom: 2px solid #e67e22;
+    border-bottom: 2px solid #8e44ad;
 }
 
 /* Mobile  Navi*/
@@ -388,8 +388,8 @@ header {
 }
 
 .steps div {
-    color: #e67e22;
-    border: 2px solid #e67e22;
+    color: #8e44ad;
+    border: 2px solid #8e44ad;
     display: inline-block;
     border-radius: 50%;
     height: 55px;
@@ -517,7 +517,7 @@ cite img {
     font-size: 250%;
     margin-bottom: 10px;
     font-weight: 100;
-    color: #e67e22;
+    color: #8e44ad;
 }
 
 .plan-price span {
