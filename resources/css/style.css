@@ -254,7 +254,7 @@ header {
     color:#fff;
     text-decoration: none;
     text-transform: uppercase;
-    padding: 8px 0px;
+    padding: 8px 0;
     font-size: 80%;
     border-bottom: 2px solid transparent;
     transition: border-bottom 0.2s;
@@ -299,7 +299,7 @@ header {
 .sticky .main-nav li a:visited {
     
     color:#555;
-    padding: 17px 0px;
+    padding: 17px 0;
    
 }
 
@@ -340,6 +340,7 @@ header {
     margin: 0;
     overflow: hidden;
     background-color: #000;
+    height: 257px;
 }
 
 .meal-photo img {
@@ -355,6 +356,8 @@ header {
     transform: scale(1.03);
    
 }
+
+
 
 /*------------------------------------------------------------------------ */
 /*HOW IT WORKS/COMO FUNCIONA*/
@@ -607,11 +610,12 @@ footer {
 .social-links li a:visited {
     font-size: 150%;
 }
+
 .ion-social-facebook,
-}.ion-social-googleplus,
-}.ion-social-twitter,
-}.ion-social-instagram:{
-    transition: color 0.2s;
+.ion-social-youtube,
+.ion-social-instagram,
+.ion-social-github {
+    transition: color .4s;
 }
 
 .ion-social-facebook:hover{
